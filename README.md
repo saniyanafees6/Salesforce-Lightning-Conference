@@ -1,6 +1,7 @@
 # conference-app
 
-Here will be some information about the app.
+![App Landing Page](lightning-conference.png 'Landing Page')
+![Conference Details Page](lightning-conference-2.png 'Details Page')
 
 ## How to start?
 
